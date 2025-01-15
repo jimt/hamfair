@@ -24,7 +24,7 @@ for year in $(seq $START_YEAR $END_YEAR); do
     ssh "$REMOTE_HOST" "mkdir -p $REMOTE_DIR"
 
     # Rsync command
-    rsync -avz --progress "$LOCAL_DIR" "$REMOTE_HOST:$REMOTE_DIR"
+    rsync -az --delete "$LOCAL_DIR" "$REMOTE_HOST:$REMOTE_DIR"
 
     if [ $? -eq 0 ]; then
       echo "Sync completed successfully for $year"
