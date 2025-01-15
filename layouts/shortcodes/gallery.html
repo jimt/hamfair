@@ -3,14 +3,6 @@
   <style>{{ .Content | safeCSS }}</style>
 {{ end }}
 
-{{ with resources.Get "js/gallery.js" }}
-  {{ $script := . | minify | fingerprint }}
-  <script>{{ .Content | safeJS }}</script>
-{{ end }}
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
-
 <style>
 .modal-caption-container {
   display: grid;
@@ -45,9 +37,10 @@
   opacity: 1;
 }
 
-.nav-button:disabled {
+.nav-button.disabled {
   opacity: 0.2;
   cursor: default;
+  pointer-events: none;
 }
 
 .modal-image-container {
@@ -74,6 +67,15 @@
 
 .modal-content {
   max-height: 98vh;
+}
+
+.gallery-item {
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.gallery-item:hover {
+  transform: scale(1.02);
 }
 </style>
 
@@ -111,11 +113,10 @@
             src="{{ $thumb.RelPermalink }}" 
             alt="{{ $caption | plainify }}"
             data-original="{{ $image.RelPermalink }}"
-            data-caption="{{ $caption }}"
             data-index="{{ $idx }}"
+            data-caption="{{ $caption }}"
             loading="lazy"
             class="gallery-thumbnail card-img-top"
-            style="cursor: pointer;"
           >
         {{ else }}
           <img 
@@ -126,7 +127,6 @@
             data-index="{{ $idx }}"
             loading="lazy"
             class="gallery-thumbnail card-img-top"
-            style="cursor: pointer;"
           >
         {{ end }}
         {{ if ne $caption "" }}
@@ -139,23 +139,23 @@
   {{ end }}
 </div>
 
-<div class="modal fade" id="galleryModal" tabindex="-1" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-xl">
+<div class="modal lightbox fade" id="galleryModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-centered">
     <div class="modal-content bg-dark">
       <div class="modal-header border-0">
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body p-0 text-center">
         <div class="modal-image-container">
-          <img src="" class="img-fluid" id="galleryModalImage">
+          <img id="galleryModalImage" class="img-fluid" alt="">
         </div>
         <div class="modal-caption-container">
-          <button class="nav-button" id="prevImage">
-            <i class="bi bi-chevron-left" style="font-size: 2rem;"></i>
+          <button class="nav-button lightbox-prev">
+            <i class="bi bi-chevron-left"></i>
           </button>
-          <p class="modal-caption-text"></p>
-          <button class="nav-button" id="nextImage">
-            <i class="bi bi-chevron-right" style="font-size: 2rem;"></i>
+          <div class="lightbox-caption modal-caption-text"></div>
+          <button class="nav-button lightbox-next">
+            <i class="bi bi-chevron-right"></i>
           </button>
         </div>
       </div>
@@ -163,85 +163,7 @@
   </div>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  let currentIndex = 0;
-  const modalEl = document.getElementById('galleryModal');
-  const modalImage = document.getElementById('galleryModalImage');
-  const modalCaption = document.querySelector('.modal-caption-text');
-  const prevButton = document.getElementById('prevImage');
-  const nextButton = document.getElementById('nextImage');
-  const thumbnails = document.querySelectorAll('.gallery-thumbnail');
-  const maxIndex = thumbnails.length - 1;
-  let galleryModal = null;
-
-  function initializeModal() {
-    if (typeof bootstrap !== 'undefined') {
-      galleryModal = new bootstrap.Modal(modalEl);
-      setupGallery();
-    } else {
-      setTimeout(initializeModal, 100);
-    }
-  }
-
-  function updateNavigationButtons() {
-    prevButton.disabled = currentIndex === 0;
-    nextButton.disabled = currentIndex === maxIndex;
-  }
-
-  function showImage(index) {
-    if (index < 0 || index > maxIndex) return;
-    
-    const thumbnail = thumbnails[index];
-    modalImage.src = thumbnail.dataset.original;
-    modalCaption.textContent = thumbnail.dataset.caption;
-    currentIndex = parseInt(thumbnail.dataset.index);
-    updateNavigationButtons();
-  }
-
-  function showPrevImage() {
-    if (currentIndex > 0) {
-      showImage(currentIndex - 1);
-    }
-  }
-
-  function showNextImage() {
-    if (currentIndex < maxIndex) {
-      showImage(currentIndex + 1);
-    }
-  }
-
-  function setupGallery() {
-    thumbnails.forEach(thumbnail => {
-      thumbnail.addEventListener('click', function() {
-        showImage(parseInt(this.dataset.index));
-        galleryModal.show();
-      });
-    });
-
-    prevButton.addEventListener('click', showPrevImage);
-    nextButton.addEventListener('click', showNextImage);
-
-    // Add keyboard navigation
-    document.addEventListener('keydown', function(e) {
-      if (!modalEl.classList.contains('show')) return;
-      
-      switch(e.key) {
-        case 'ArrowLeft':
-          showPrevImage();
-          break;
-        case 'ArrowRight':
-          showNextImage();
-          break;
-      }
-    });
-
-    // Add touch gestures
-    const hammer = new Hammer(modalImage);
-    hammer.on('swipeleft', showNextImage);
-    hammer.on('swiperight', showPrevImage);
-  }
-
-  initializeModal();
-});
-</script>
+{{ with resources.Get "js/gallery.js" }}
+  {{ $script := . | minify | fingerprint }}
+  <script defer>{{ .Content | safeJS }}</script>
+{{ end }}
