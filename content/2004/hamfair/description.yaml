@@ -1,134 +1,116 @@
 _index:
-  - img: hamfair2004.jpg
-    desc: "Ham Fair 2004 venue"
-  - img: img_1262.jpg
-    desc: "Entrance to Ham Fair 2004"
   - img: img_1263.jpg
-    desc: "Main exhibition hall"
+    desc: "Ham Fair 2004"
+  - img: img_1262.jpg
+    desc: "Tokyo Big Sight Convention Center, site of the Ham Fair (and the JAM model railroad show)"
   - img: img_1265.jpg
-    desc: "Commercial exhibits area"
+    desc: "Queue Saturday morning waiting to buy tickets"
   - img: img_1267.jpg
-    desc: "Club and flea market area"
-  - img: img_1268.jpg
-    desc: "Displays and demonstrations"
-  - img: img_1269.jpg
-    desc: "Ham radio equipment showcase"
-
-commercial:
-  - img: img_1270.jpg
-    desc: "Latest ham radio equipment on display"
-  - img: img_1271.jpg
-    desc: "New radio models and accessories"
-  - img: img_1272.jpg
-    desc: "Professional radio equipment display"
-  - img: img_1273.jpg
-    desc: "Modern transceiver technology"
-  - img: img_1274.jpg
-    desc: "Digital radio equipment"
-  - img: img_1275.jpg
-    desc: "High-end radio systems"
-
-clubs:
+    desc: "Construction Corner, where people of all ages could be introduced to radio and electronic construction by a staff of mentors."
   - img: img_1276.jpg
-    desc: "Amateur radio club displays"
-  - img: img_1277.jpg
-    desc: "Club activities and demonstrations"
-  - img: img_1278.jpg
-    desc: "Ham radio community projects"
-  - img: img_1279.jpg
-    desc: "Club member presentations"
-  - img: img_1280.jpg
-    desc: "Special event stations"
+    desc: "standing room only at the JARL DSTAR booth"
+  - img: img_1271.jpg
+    desc: "8J1A special event station was operated from HF to 1.2GHz, complete with a DSTAR station on 1.2GHz"
+  - img: img_1273.jpg
+    desc: "8J1A antenna farm atop the convention center"
+  - img: img_1274.jpg
+    desc: "closeup of the antennas, showing the DSTAR installation"
+  - img: img_1317.jpg
+    desc: "Cubesat prototypes"
+  - img: img_1318.jpg
+    desc: "JARL homebrew contest"
 
-flea_market:
-  - img: img_1281.jpg
-    desc: "Flea market area overview"
-  - img: img_1282.jpg
-    desc: "Vintage radio equipment"
-  - img: img_1283.jpg
-    desc: "Used equipment for sale"
-  - img: img_1284.jpg
-    desc: "Radio parts and components"
-  - img: img_1285.jpg
-    desc: "Amateur radio accessories"
-
-presentations:
-  - img: img_1286.jpg
-    desc: "Technical presentations"
-  - img: img_1287.jpg
-    desc: "Ham radio workshops"
-  - img: img_1288.jpg
-    desc: "Educational seminars"
-  - img: img_1289.jpg
-    desc: "Live demonstrations"
-  - img: img_1290.jpg
-    desc: "Expert talks"
-
-manufacturers:
+Alinco_AOR:
   - img: img_1291.jpg
-    desc: "Major manufacturer displays"
-  - img: img_1292.jpg
-    desc: "New product announcements"
-  - img: img_1293.jpg
-    desc: "Product demonstrations"
-  - img: img_1294.jpg
-    desc: "Technical specifications"
+    desc: ""
+  - img: img_1290.jpg
+    desc: "The Alinco DR-620 twin band transceiver and the DJ-C7 dual band handheld"
+  - img: img_1324.jpg
+    desc: "The Alinco power supply line-up"
   - img: img_1295.jpg
-    desc: "Equipment testing area"
-
-technology:
+    desc: "AOR"
   - img: img_1296.jpg
-    desc: "Digital mode demonstrations"
+    desc: "SR2000 FFT surveillance receiver. Y239,400"
   - img: img_1297.jpg
-    desc: "Software defined radio"
+    desc: "The ARDV8000 crams a digital voice system into an oversized speaker-mic for a handheld."
+  - img: img_1294.jpg
+    desc: "The AR-88 tube type stereo power amplifier produces 6W on each channel. Y148,000."
+
+Equipment:
   - img: img_1299.jpg
-    desc: "Antenna technology"
+    desc: "Comet"
   - img: img_1300.jpg
-    desc: "RF equipment"
-  - img: img_1301.jpg
-    desc: "Test equipment"
-
-special_exhibits:
-  - img: img_1302.jpg
-    desc: "Special exhibits area"
-  - img: img_1303.jpg
-    desc: "Historical radio equipment"
-  - img: img_1304.jpg
-    desc: "Amateur satellite communications"
-  - img: img_1305.jpg
-    desc: "Emergency communications"
-  - img: img_1306.jpg
-    desc: "DX operations"
-
-activities:
-  - img: img_1307.jpg
-    desc: "Hands-on activities"
-  - img: img_1308.jpg
-    desc: "QSL card checking"
-  - img: img_1309.jpg
-    desc: "Contest information"
-  - img: img_1310.jpg
-    desc: "Awards ceremony"
+    desc: "Diamond"
+  - img: img_1293.jpg
+    desc: "Radix offers a variety of antennas, seeming to specialize in small antennas including a popular range of loaded V dipoles."
+  - img: img_1325.jpg
+    desc: '<a href="http://www.makidenki.co.jp/">Maki Denki</a>'
   - img: img_1311.jpg
-    desc: "Special event operations"
-
-international:
+    desc: '<a href="http://www.fr-radio.com/">FR Radio</a> EH antennas'
   - img: img_1312.jpg
-    desc: "International amateur radio"
-  - img: img_1313.jpg
-    desc: "Global ham community"
-  - img: img_1314.jpg
-    desc: "International exchanges"
-  - img: img_1315.jpg
-    desc: "Worldwide DX"
-  - img: img_1316.jpg
-    desc: "International cooperation"
+    desc: "FR Radio EH antennas, prices range from Y19,500 for 15 or 20 meter versions up to Y73,000 for a 160M antenna"
+  - img: img_1287.jpg
+    desc: '<a href="http://www.jacom.com/">Jacom</a> imports a variety of amateur equipment, including the MFJ and SGC product lines'
+  - img: img_1288.jpg
+    desc: ""
+  - img: img_1289.jpg
+    desc: "The QSL card vendors always appear to be doing a brisk business at the Ham Fair."
+  - img: img_1292.jpg
+    desc: 'just part of the range of keys and paddles offered by <a href="http://www.ghdkey.com/">GHD Telegraph Key</a>'
 
-clubs:
+Icom:
+  - img: img_1283.jpg
+    desc: "The ID-800 D-STAR 144/430 transceiver shows off its GPS support. 20W Y64,800, and 50W Y74,800."
+  - img: img_1284.jpg
+    desc: "The ID-800 can switch between analog and digital voice modes."
+  - img: img_1285.jpg
+    desc: "Icom ID-1"
+  - img: img_1280.jpg
+    desc: "IC-765PROIII will have a list price of Y398,000."
+  - img: img_1281.jpg
+    desc: "Some of the building blocks inside your IC-7800"
+  - img: img_1282.jpg
+    desc: ""
+  - img: img_1327.jpg
+    desc: "Icom was soliciting opinions on the industrial design for new handhelds."
+
+Kenwood:
+  - img: img_1277.jpg
+    desc: ""
+  - img: img_1278.jpg
+    desc: ""
+  - img: img_1315.jpg
+    desc: ""
+  - img: img_1316.jpg
+    desc: ""
+
+Yaesu:
+  - img: img_1268.jpg
+    desc: ""
+  - img: img_1279.jpg
+    desc: ""
+  - img: img_1323.jpg
+    desc: ""
+  - img: img_1269.jpg
+    desc: "The 400W FT DX 9000MP will have a list price of Y1,100,000 (about US$10,000)."
+  - img: img_1270.jpg
+    desc: ""
+  - img: img_1319.jpg
+    desc: "The 200W FT DX 9000D is expected to ship in 2004-12 with a list price of Y1,050,000."
+  - img: img_1320.jpg
+    desc: ""
+  - img: img_1321.jpg
+    desc: ""
+  - img: img_1322.jpg
+    desc: "The Mark-V FT-1000MP transceiver, combined with the VL-1000 amplifier and VP-1000 power supply."
+  - img: img_1286.jpg
+    desc: "WIRES-II"
+
+Clubs:
   - img: img_1301.jpg
     desc: "JARL Kansai Region"
   - img: img_1302.jpg
-    desc: "JAMSAT"
+    desc: '<a href="http://www.jamsat.or.jp/">JAMSAT</a>'
   - img: img_1303.jpg
     desc: 'telecomm projects of the <a href="http://www.bhn.or.jp/">Basic Human Needs</a> NGO'
   - img: img_1272.jpg
@@ -147,3 +129,8 @@ clubs:
     desc: ""
   - img: img_1313.jpg
     desc: '<a href="http://www.jarl.com/yama/">Yokohama Amateur Microwave Association</a> includes some distance world record holders'
+  - img: img_1314.jpg
+    desc: '<a href="http://www.jarl.com/mwac/">Microwave Amateur Communication</a> club'
+  - img: img_1310.jpg
+    desc: '<a href="http://www.din.or.jp/~jk1ewy/club/clubindex.htm">Facsimile Club</a> explains a wide number of ways of fax transmission (including color) via ham radio.'
+

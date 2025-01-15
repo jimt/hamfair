@@ -1,10 +1,12 @@
 ---
-title: Japan Ham Fair 2004 - Manufacturers
+title: Japan Ham Fair 2004
 dates: August 21 & 22, 2004
 author: Jim Tittsler 7J1AJH/AI8A
 location: Tokyo Big Sight
+aliases: ["index5.html"]
 ---
 
-{{< gallery src="description.yaml" section="manufacturers" >}}
+{{< gallery src="description.yaml" section="Kenwood" >}}
 
 {{< pagesnav >}}
+

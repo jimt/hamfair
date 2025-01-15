@@ -1,10 +1,12 @@
 ---
-title: Japan Ham Fair 2004 - Commercial
+title: Japan Ham Fair 2004
 dates: August 21 & 22, 2004
 author: Jim Tittsler 7J1AJH/AI8A
 location: Tokyo Big Sight
+aliases: ["index6.html"]
 ---
 
-{{< gallery src="description.yaml" section="commercial" >}}
+{{< gallery src="description.yaml" section="Yaesu" >}}
 
 {{< pagesnav >}}
+

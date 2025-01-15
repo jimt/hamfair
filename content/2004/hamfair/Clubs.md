@@ -6,6 +6,6 @@ location: Tokyo Big Sight
 aliases: [2004/hamfair/index7.html]
 ---
 
-{{< gallery src="description.yaml" section="clubs" >}}
+{{< gallery src="description.yaml" section="Clubs" >}}
 
 {{< pagesnav >}}
