@@ -1,0 +1,22 @@
+#!/usr/bin/python
+
+# use jpegtran to rotate an thm0000.jpg and aut0000.jpg where 000
+# preserve the old files' atime and mtime
+
+import sys, os, glob, string, time
+from stat import *
+
+def rotate(filename):
+    stat = os.stat(filename)
+    # jpegtran -rot 90 -outfile raut_0099.jpg aut_0099.jpg
+#   os.system("/usr/bin/jpegtran -rotate 90 -outfile %s %s" %
+    os.system("/usr/bin/jpegtran -rotate 270 -outfile %s %s" %
+               ('r'+filename, filename))
+    os.unlink(filename)
+    os.rename("r"+filename, filename)
+    os.utime(filename, (stat[ST_ATIME], stat[ST_MTIME]))
+    
+for arg in (sys.argv[1:]):
+    rotate("tmg_%04d.jpg" % string.atoi(arg))
+    rotate("img_%04d.jpg" % string.atoi(arg))
+    

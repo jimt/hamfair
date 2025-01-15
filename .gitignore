@@ -1,0 +1,12 @@
+# hugo build artifacts
+public
+resources
+.hugo_build.lock
+# no images in the repo
+*.jpg
+*.webm
+*.gif
+*.png
+# don't save the deployment script
+deploy.sh
+

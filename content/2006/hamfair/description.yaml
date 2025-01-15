@@ -1,0 +1,189 @@
+_index:
+  - img: hamfair06.jpg
+    desc: >-
+      <a href="http://www.jarl.or.jp/Japanese/1_Tanoshimo/1-3_Ham-Fair/Ham-Fair.htm">
+      Japan Ham Fair 2006</a> - the 30th year of the Ham Fair.  From about 26,000 
+      people in the 3 day event in 1977, the Ham Fair grew to about 60,000 
+      visitors in the early 90s.  Since changing to a 2 day format in 2002, there 
+      have been about 27,000 to 29,000 visitors each year.
+  - img: hf06-big-sight.jpg
+    desc: >-
+      <a href="http://www.bigsight.jp/english/">Tokyo Big Sight</a> convention 
+      center with rubber-tired Yurikamome Line passing in front
+  - img: hf06queue.jpg
+    desc: >-
+      even an hour after the show opened, the ticket queue was 25 minutes long
+  - img: img_1929.jpg
+    desc: 8J1A special event station from HF to UHF
+  - img: img_1930.jpg
+    desc: 8J1A antenna farm on the convention center roof
+  - img: img_1931.jpg
+    desc: >-
+      8J1A antenna farm, overlooking Tokyo Bay, with plane on the short base turn 
+      into Haneda Airport
+  - img: img_1952.jpg
+    desc: ARRL DXCC card checking at the JARL Desk
+  - img: img_1953.jpg
+    desc: commercial exhibit area
+
+Alinco_AOR:
+  - img: img_1955.jpg
+    desc: <a href="http://www.alinco.co.jp/">Alinco</a> booth
+  - img: img_1958.jpg
+    desc: new low cost Alinco single band handhelds DJ-S12 and DJ-S42
+  - img: img_1963.jpg
+    desc: <a href="http://www.aorja.com/">AOR</a> AR-Alpha SDR receiver
+  - img: img_1964.jpg
+    desc: AOR AR-Alpha SDR receiver and FFT display, 10 kHz to 3.3 GHz
+  - img: img_1965.jpg
+    desc: AOR AR-Alpha SDR receiver, serial or USB control
+  - img: img_1966.jpg
+    desc: >-
+      AOR's super wideband (10MHz~4GHz) spectrum analyzer, and 
+      <a href="http://smarttweezers.ca/">Smart Tweezers</a> from Canada that have 
+      an R-L-C meter in the handle to measure as you pick up the surface mount part
+
+Icom:
+  - img: dsc00008.jpg
+    desc: IC-R9500 communications receiver
+  - img: dsc00009.jpg
+    desc: IC-R9500 communications receiver
+  - img: img_1937.jpg
+    desc: Icom HF transceivers
+  - img: img_1990.jpg
+    desc: Icom HF lineup
+  - img: img_1989.jpg
+    desc: Icom D-Star lineup
+  - img: img_1984.jpg
+    desc: Icom X3 professional transceiver
+  - img: img_1985.jpg
+    desc: IC-R9500 communications receiver
+  - img: img_1986.jpg
+    desc: IC-R9500 communications receiver
+  - img: img_1987.jpg
+    desc: IC-R9500 communications receiver
+
+Kenwood:
+  - img: img_1928.jpg
+    desc: >-
+      <a href="http://www.kenwood.co.jp/j/products/radio_index.html">Kenwood</a> 
+      booth just inside the main entrance
+  - img: dsc00017.jpg
+    desc: Kenwood celebrates their 60th anniversary
+  - img: img_1940.jpg
+    desc: a special aniversary edition of the TS-2000
+  - img: img_1941.jpg
+    desc: >-
+      they've brought back the Trio name on the black face plate of the special 
+      TS-2000
+  - img: img_1938.jpg
+    desc: Kenwood was showing a DStar transceiver prototype
+  - img: img_1939.jpg
+    desc: Kenwood prototype VHF/UHF mobile transceiver
+  - img: img_1942.jpg
+    desc: >-
+      <a href="http://www.kenwood.co.jp/j/products/amateur/hf_allmode/tl_933/index.html">
+      TL-933</a> HF/50MHz solid state amplifier
+
+Standard:
+  - img: dsc00016.jpg
+    desc: <a href="http://www.standard-comm.co.jp/">Standard</a>/Yaesu booth
+  - img: dsc00005.jpg
+    desc: Wires-II demonstration
+  - img: img_1944.jpg
+    desc: >-
+      the FT-2000 was attracting a lot of knob twiddling, with shipments 
+      scheduled to start at the end of August
+  - img: img_1992.jpg
+    desc: >-
+      FT-2000 (200W Y399,000 list, 50W and 10W versions Y336,000)
+  - img: img_1945.jpg
+    desc: >-
+      a high end listening room where you could test drive the top Yaesu HF 
+      transceivers
+  - img: img_1946.jpg
+    desc: FT-817/857/897 family of transceivers
+  - img: dsc00006.jpg
+    desc: ""
+  - img: dsc00007.jpg
+    desc: ""
+  - img: dsc00015.jpg
+    desc: FTdx9000 with giant display, ham radio as a spectator sport
+
+Tokyo_Hy_Power:
+  - img: img_1956.jpg
+    desc: <a href="http://www.thp.co.jp/">Tokyo Hy-Power</a> booth
+  - img: img_1959.jpg
+    desc: Tokyo Hy-Power HT-200 QRP transciever prototype
+  - img: img_1960.jpg
+    desc: details of HT-200 reference design
+  - img: dsc00012.jpg
+    desc: HT-200 prototype
+  - img: dsc00013.jpg
+    desc: HL-1.2Kfx and HL-450B amplifier inards exposed
+  - img: img_1961.jpg
+    desc: >-
+      the HL-2.5K legal limit amplifier with a pair of industrial FETs (see the 
+      article in the Sep/Oct 2006 <i>QEX</i>)
+  - img: img_1962.jpg
+    desc: Tokyo Hy-Power amplifier lineup
+  - img: img_1957.jpg
+    desc: >-
+      HC-200AT automatic 1.8MHz~54MHz 200W antenna tuner and new HL-120V 100 Watt 
+      2 meter all-mode amplifier
+
+Antennas:
+  - img: img_1988.jpg
+    desc: Comet antennas, power supplies, common mode filters
+  - img: img_1954.jpg
+    desc: >-
+      new Comet CAT-300 antenna tuner (1.8~30MHz, Nov 06) and CD-300HV SWR/Power 
+      meter
+  - img: img_1943.jpg
+    desc: Diamond mobile antennas, with models for 7 to 28 MHz bands
+  - img: img_1967.jpg
+    desc: Maldol MFB-300 1.9MHz~50MHz broad band vertical
+  - img: img_1973.jpg
+    desc: <a href="http://www.luso-ns.com/">Luso</a> giant crank-up tower
+  - img: img_1972.jpg
+    desc: Luso rotating base for your tower
+
+Misc:
+  - img: img_1968.jpg
+    desc: a portion of the MFJ and SSC equipment imported by JACOM
+  - img: img_1971.jpg
+    desc: >-
+      custom QSL printing from <a href="http://www.op-onoue.co.jp/">Printing 
+      Onoue</a>
+  - img: img_1969.jpg
+    desc: >-
+      beautiful <a href="http://www.ghdkey.com/">GHD Telegraph Key</a> paddles and 
+      keys
+  - img: img_1970.jpg
+    desc: miniature GHD Telegraph paddles
+  - img: img_1977.jpg
+    desc: >-
+      microswitch <a href="http://nomusan-koubou.hp.infoseek.co.jp/">BSL Paddle 
+      Mini</a> miniature paddles on solid magnetic bases from JA9BSL
+  - img: img_1978.jpg
+    desc: Hello Kitty versions of the miniature paddles
+
+QRP:
+  - img: img_1935.jpg
+    desc: >-
+      JARL QRP Club booth, listen for their 8J?P special event/portable operations 
+      from around Japan
+  - img: img_1981.jpg
+    desc: JARL QRP Club booth
+  - img: img_1936.jpg
+    desc: some of the projects by the JARL QRP Club members
+  - img: img_1934.jpg
+    desc: JG3ADQ 2M SSB transceiver built on strips of lugboard
+  - img: img_1980.jpg
+    desc: fishing pole portable antenna
+
+clubs:
+  - img: img_1933.jpg
+    desc: one of the dozen aisles of the "club" (and flea market) area
+  - img: img_1974.jpg
+    desc: JAM

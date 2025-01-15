@@ -1,0 +1,145 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Ham Fair</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        {{ $currentYear := .Section }}
+        {{ $currentPath := "" }}
+        {{ with .File }}{{ $currentPath = .Dir }}{{ end }}
+        
+        {{ $years := slice }}
+        {{ $yearContent := dict }}
+        
+        {{ range where .Site.Pages "Kind" "section" }}
+          {{ if .File }}
+            {{ $path := .File.Path }}
+            {{ if findRE "^\\d{4}/[^/]+/_index\\.md$" $path }}
+              {{ $pathParts := split (strings.TrimSuffix "/_index.md" $path) "/" }}
+              {{ $year := index $pathParts 0 }}
+              {{ $section := index $pathParts 1 }}
+              
+              {{ if not (in $years $year) }}
+                {{ $years = $years | append $year }}
+              {{ end }}
+              
+              {{ $sections := index $yearContent $year | default slice }}
+              {{ if not (in $sections $section) }}
+                {{ $yearContent = merge $yearContent (dict $year ($sections | append (dict "title" $section "url" .RelPermalink))) }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        
+        {{ range sort $years }}
+          {{ $year := . }}
+          {{ $sections := index $yearContent $year }}
+          {{ if eq (len $sections) 1 }}
+            <li class="nav-item">
+              <a class="nav-link{{ if eq $currentYear $year }} active{{ end }}" 
+                 href="{{ (index $sections 0).url }}">{{ $year }}</a>
+            </li>
+          {{ else }}
+            <li class="nav-item dropdown-hover">
+              <a class="nav-link{{ if eq $currentYear $year }} active{{ end }}">{{ $year }}</a>
+              <ul class="dropdown-menu-hover">
+                {{ range $sections }}
+                  <li>
+                    <a class="dropdown-item{{ if and (eq $currentYear $year) (in $currentPath .title) }} active{{ end }}" 
+                       href="{{ .url }}">{{ humanize .title }}</a>
+                  </li>
+                {{ end }}
+              </ul>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<style>
+.dropdown-hover {
+  position: relative;
+}
+
+.dropdown-menu-hover {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #fff;
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0,0,0,.1);
+  z-index: 1000;
+  list-style: none;
+  padding: 0.5rem 0;
+  margin: 0;
+  border: 1px solid rgba(0,0,0,.15);
+  border-radius: 0.25rem;
+}
+
+.dropdown-hover:hover .dropdown-menu-hover {
+  display: block;
+}
+
+.dropdown-menu-hover .dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1rem;
+  clear: both;
+  font-weight: 400;
+  color: #212529;
+  text-align: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+.dropdown-menu-hover .dropdown-item:hover,
+.dropdown-menu-hover .dropdown-item:focus {
+  color: #1e2125;
+  background-color: #e9ecef;
+}
+
+.dropdown-menu-hover .dropdown-item.active {
+  color: #fff;
+  background-color: #0d6efd;
+}
+
+@media (max-width: 991.98px) {
+  .navbar-nav {
+    flex-direction: column !important;
+  }
+  .nav-item {
+    width: 100%;
+    text-align: right;
+  }
+  .dropdown-menu-hover {
+    position: static !important;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+    text-align: right;
+    display: none;
+  }
+  .dropdown-hover:hover .dropdown-menu-hover {
+    display: block;
+  }
+  .dropdown-menu-hover .dropdown-item {
+    color: rgba(255,255,255,.55);
+    padding: .5rem 1.5rem;
+  }
+  .dropdown-menu-hover .dropdown-item:hover,
+  .dropdown-menu-hover .dropdown-item:focus,
+  .dropdown-menu-hover .dropdown-item.active {
+    color: rgba(255,255,255,.75);
+    background-color: transparent;
+  }
+}
+</style>

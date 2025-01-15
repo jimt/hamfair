@@ -1,0 +1,5 @@
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+{{ with resources.Get "css/style.css" }}
+  {{ $style := . | minify | fingerprint }}
+  <style>{{ .Content | safeCSS }}</style>
+{{ end }}

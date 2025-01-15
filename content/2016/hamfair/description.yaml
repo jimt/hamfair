@@ -1,0 +1,99 @@
+_index:
+  - img: p1020486.jpg
+    desc: >-
+      <a href="http://www.jarl.or.jp/Japanese/1_Tanoshimo/1-3_Ham-Fair/Ham-Fair.htm">
+      Japan Ham Fair 2016</a> at Tokyo Big Sight Convention Center
+  - img: p1020485.jpg
+    desc: <a href="http://www.bigsight.jp/english/">Tokyo Big Sight</a> convention center
+  - img: p1020523.jpg
+    desc: Ham Fair 2016
+  - img: p1020521.jpg
+    desc: >-
+      The Ham Fair will be the first weekend in September next year (September 2 & 
+      3, 2017) and is moving upstairs to Hall 3 & 4.
+  - img: p1020504.jpg
+    desc: 8J1HAM Special Event Station
+  - img: p1020522.jpg
+    desc: 8J1HAM antenna farm on the roof of the convention center
+  - img: p1020492.jpg
+    desc: Alinco
+  - img: p1020501.jpg
+    desc: AOR
+  - img: p1020498.jpg
+    desc: QSL card printing
+  - img: p1020499.jpg
+    desc: Radix antennas
+  - img: p1020500.jpg
+    desc: Radix antennas
+  - img: p1020502.jpg
+    desc: <a href="http://morimusen.com/">Mori Musen</a>
+  - img: p1020503.jpg
+    desc: Tomei Denshi retail booth
+  - img: p1020505.jpg
+    desc: giant <a href="http://www.lusotower.com/">Luso Tower</a>
+  - img: p1020506.jpg
+    desc: >-
+      <a href="http://www.qsl.net/rast/">Radio Amateur Society of Thailand</a> 
+      (RAST)
+  - img: p1020507.jpg
+    desc: >-
+      <a href="http://www.orari.or.id/">Indonesia Amateur Radio Organization</a> 
+      (ORARI)
+  - img: p1020511.jpg
+    desc: >-
+      <a href="http://www.jacom.com/e-shop/index.html">JACOM</a> with their 
+      imports for hams, SWLs, and broadcast listeners
+  - img: p1020510.jpg
+    desc: JACOM
+  - img: p1020512.jpg
+    desc: >-
+      <a href="http://www.ghdkey.com/">GHD Telegraph Key</a> with a huge variety 
+      of paddles and keys
+  - img: p1020529.jpg
+    desc: Diamond antennas
+
+icom_kenwood_yaesu:
+  - img: p1020488.jpg
+    desc: Icom
+  - img: p1020489.jpg
+    desc: Icom SP-38 to match the IC-7300
+  - img: p1020525.jpg
+    desc: Icom IC-R8600 receiver
+  - img: p1020527.jpg
+    desc: Icom IC-R30 handheld receiver
+  - img: p1020526.jpg
+    desc: Icom IC-R30 receiver features
+  - img: p1020528.jpg
+    desc: >-
+      Icom ID-51 plus 2, which can connect to an Android or Windows machine and 
+      act as either a D-STAR hotspot or as a dongle
+  - img: p1020491.jpg
+    desc: Kenwood TS-590G and TS-990
+  - img: p1020524.jpg
+    desc: Yaesu demo stage (and history timeline)
+  - img: p1020493.jpg
+    desc: >-
+      Yaesu VHF/UHF C4FM and WIRES-X (There is some simplex System Fusion 
+      activity in Japan, but no repeaters have been coordinated by JARL.)
+  - img: p1020494.jpg
+    desc: Yaesu FT-991A, FT-891, FT1XD, FT2D
+  - img: p1020495.jpg
+    desc: Yaesu FT-991A and M-1 microphone
+  - img: p1020497.jpg
+    desc: Yaesu FTdx1200 transceiver
+
+clubs:
+  - img: p1020513.jpg
+    desc: Club and organization booths
+  - img: p1020514.jpg
+    desc: ""
+  - img: p1020515.jpg
+    desc: ""
+  - img: p1020516.jpg
+    desc: ""
+  - img: p1020517.jpg
+    desc: ""
+  - img: p1020519.jpg
+    desc: <a href="http://www.jamsat.or.jp/index_e.html">JAMSAT</a>
+  - img: p1020520.jpg
+    desc: <a href="http://www.jaqrp.org/">JARL QRP Club</a>

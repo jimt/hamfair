@@ -1,0 +1,16 @@
+baseURL = 'https://onjapan.net/'
+languageCode = 'en-us'
+title = 'Japan Ham Fair'
+theme = 'fairpages'
+disableKinds = ["taxonomy", "RSS"]
+
+[params]
+  description = "Photos and information from the Japan Ham Fair in Tokyo"
+  mastodon = "https://social.onjapan.net/@jimt"
+  bluesky = "https://bsky.app/profile/jimt.onjapan.net"
+  #ogimage = ""
+  #twimage = ""
+  [params.author]
+    name = "Jim Tittsler 7J1AJH / AI8A"
+    twitter = "jtittsler"
+

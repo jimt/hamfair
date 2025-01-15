@@ -1,0 +1,117 @@
+_index:
+  - img: aut_0020.jpg
+    desc: "Ham Fair 2001 venue in Yokohama"
+  - img: aut_0021.jpg
+    desc: "Ham Fair 2001 entrance"
+  - img: aut_0036.jpg
+    desc: "Commercial Exhibit Area"
+  - img: aut_0038.jpg
+    desc: "Club Area (and Flea Market)"
+  - img: aut_0118.jpg
+    desc: "Ham Fair 2001 displays"
+  - img: aut_0117.jpg
+    desc: "Ham Fair 2001 exhibits"
+
+antennas:
+  - img: aut_0003.jpg
+    desc: "Diamond RHM5 - a 1.55 meter long 5 band vertical perfect for the FT-817. Covers 7/14/21/28/50MHz bands, rated at 20W SSB"
+  - img: aut_0004.jpg
+    desc: "Diamond HV7CX - 1.9 meter mobile antenna rated at 120W from 7 to 28MHz, and 200W from 50 to 430MHz"
+  - img: aut_0032.jpg
+    desc: "Diamond antenna display"
+  - img: aut_0113.jpg
+    desc: "Diamond antenna products"
+  - img: aut_0005.jpg
+    desc: "Diamond smaller base-loaded mono band HF whips"
+  - img: aut_0019.jpg
+    desc: "Diamond antenna display"
+
+icom:
+  - img: aut_0007.jpg
+    desc: "IC-7400 HF+50MHz+144MHz All Mode Transceiver - HF-54MHz 100W, 144MHz 50W, IF DSP, RTTY demodulator/decoder"
+  - img: aut_0006.jpg
+    desc: "IC-7400 front panel view"
+  - img: aut_0008.jpg
+    desc: "IC-756 PRO II - HF + 6M 100W, IF DSP, Large color LCD, RTTY demodulator/decoder"
+  - img: aut_0108.jpg
+    desc: "IC-756 PRO II display showing filter shape adjustment"
+
+clubs:
+  - img: aut_0135.jpg
+    desc: '6M AM club with web forum at www.hamland.co.jp/nagaya/c-board.cgi'
+  - img: aut_0136.jpg
+    desc: "6M AM club display"
+  - img: aut_0137.jpg
+    desc: "JAMSAT booth"
+  - img: aut_0138.jpg
+    desc: "Facsimile club display"
+  - img: aut_0105.jpg
+    desc: "RTTY club display"
+
+kenwood:
+  - img: aut_0109.jpg
+    desc: "Kenwood display"
+  - img: aut_0119.jpg
+    desc: "Kenwood equipment display"
+  - img: aut_0018.jpg
+    desc: "TL-933 1kW amplifier (1.8-54MHz) and silver TS-2000S"
+  - img: aut_0024.jpg
+    desc: "JRC JRL-3000F amplifier"
+  - img: aut_0107.jpg
+    desc: "TH-F7 Dual-bander (tri-bander in US) - List price Y43,800"
+
+yaesu:
+  - img: aut_0009.jpg
+    desc: "New FT-897 All Mode Transceiver - HF-50MHz (100W), 144MHz (50W), 430MHz (20W) with DSP and Collins mechanical filters"
+  - img: aut_0013.jpg
+    desc: "FT-897 front panel view"
+  - img: aut_0010.jpg
+    desc: "FT-897 side view showing handle"
+  - img: aut_0014.jpg
+    desc: "FT-897 rear panel"
+  - img: aut_0026.jpg
+    desc: "Yaesu display"
+  - img: aut_0134.jpg
+    desc: "Yaesu equipment showcase"
+  - img: aut_0104.jpg
+    desc: "Yaesu product display"
+
+ja3ckf:
+  - img: aut_0040.jpg
+    desc: "JA3CKF demonstrating backpack-mounted wind generator powering FT-817"
+  - img: aut_0039.jpg
+    desc: "Wind-powered FT-817 setup"
+  - img: aut_0140.jpg
+    desc: "NP-30 wind generator capable of producing 30W with 8-10 m/s wind"
+
+jf1dhm:
+  - img: aut_0001.jpg
+    desc: "JF1DHM's portable dipole/loop antenna using tape measures and bamboo poles"
+  - img: aut_0002.jpg
+    desc: "Tape measure antenna setup"
+  - img: aut_0033.jpg
+    desc: "Detailed view of tape measure antenna construction with 5cm hole spacing"
+
+qrp:
+  - img: aut_0126.jpg
+    desc: "JA1IXI operating his self-powered transmitter"
+  - img: aut_0124.jpg
+    desc: "Firefly-II Self-Powered Transmitter - generates power by pumping the Morse code key"
+  - img: aut_0127.jpg
+    desc: "QRP equipment display"
+  - img: aut_0123.jpg
+    desc: "JR7HAN working JA1IXI using low SWR short whip"
+  - img: aut_0125.jpg
+    desc: "Fujiyama 40M & 17M QRP rigs"
+  - img: aut_0128.jpg
+    desc: "JL1KRA's Pixie-2 and direct conversion TA-7358 rigs"
+  - img: aut_0129.jpg
+    desc: "Germanium transistor milliwatt transceiver"
+
+uwave:
+  - img: aut_0112.jpg
+    desc: "Yokohama Amateur Microwave Association display"
+  - img: aut_0121.jpg
+    desc: "Microwave equipment showcase"
+  - img: aut_0122.jpg
+    desc: "Microwave antenna display"

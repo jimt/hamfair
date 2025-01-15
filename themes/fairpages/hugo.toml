@@ -1,0 +1,13 @@
+baseURL = 'https://OnJapan.net/'
+languageCode = 'en-US'
+title = 'OnJapan Ham Fair'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"

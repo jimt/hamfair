@@ -1,0 +1,189 @@
+_index:
+  - img: img_3612.jpg
+    desc: >-
+      <a href="http://www.jarl.or.jp/Japanese/1_Tanoshimo/1-3_Ham-Fair/Ham-Fair.htm">
+      Japan Ham Fair 2009</a>
+  - img: img_3644.jpg
+    desc: 8J1A special event station from HF to UHF
+  - img: img_3645.jpg
+    desc: 8J1A special event station
+  - img: img_3630.jpg
+    desc: >-
+      8J1A antenna farm on the <a href="http://www.bigsight.jp/english/">Tokyo Big 
+      Sight convention center</a> roof
+  - img: img_3631.jpg
+    desc: 8J1A antenna farm, with a couple of microwave additions this year
+  - img: img_3720.jpg
+    desc: ""
+  - img: img_3721.jpg
+    desc: ""
+  - img: img_3722.jpg
+    desc: ""
+  - img: img_3676.jpg
+    desc: >-
+      ARRL's Dave Patton NN1N explaining ARRL's thoughts on targetting the 17-25 
+      age group
+  - img: img_3618.jpg
+    desc: part of the youth art gallery on the theme of radio
+
+alinco_aor:
+  - img: img_3708.jpg
+    desc: ""
+  - img: img_3709.jpg
+    desc: ""
+
+icom:
+  - img: img_3672.jpg
+    desc: Icom
+  - img: img_3632.jpg
+    desc: IC-9100 HF~50, 144, 430, 1296 transceiver
+  - img: img_3633.jpg
+    desc: IC-9100 HF to 1.2GHz transceiver
+  - img: img_3714.jpg
+    desc: IC-9100 rear panel
+  - img: img_3711.jpg
+    desc: ""
+  - img: img_3713.jpg
+    desc: ""
+  - img: img_3712.jpg
+    desc: ""
+  - img: img_3685.jpg
+    desc: Icom receivers
+
+kenwood:
+  - img: img_3686.jpg
+    desc: >-
+      Kenwood video, including images of a possible APRS handheld planned for 2010
+  - img: img_3642.jpg
+    desc: Kenwood booth, featuring APRS and Echolink features of V/U rigs
+  - img: img_3643.jpg
+    desc: Kenwood HF transceiver concept coming in 2010
+
+standard:
+  - img: img_3640.jpg
+    desc: <a href="http://www.standard-comm.co.jp/">Standard</a>/Yaesu booth
+  - img: img_3636.jpg
+    desc: FTM-350 APRS mobile rig
+  - img: img_3637.jpg
+    desc: FTM-350 showing one of the 8 possible front panel colors
+  - img: img_3639.jpg
+    desc: >-
+      FTM-350 dual speakers, can operate V/U or V/V, or be used as a broadcast 
+      receiver
+  - img: img_3667.jpg
+    desc: FTM-350 display
+  - img: img_3638.jpg
+    desc: FTM-350 details
+  - img: img_3717.jpg
+    desc: ""
+  - img: img_3718.jpg
+    desc: ""
+  - img: img_3719.jpg
+    desc: >-
+      FTM-350 control head rear panel showing dual speakers, charging clip for 
+      handsfree headset
+  - img: img_3677.jpg
+    desc: mobile VHF/UHF transceivers
+  - img: img_3681.jpg
+    desc: handheld line
+  - img: img_3682.jpg
+    desc: WIRES
+  - img: img_3716.jpg
+    desc: FTdx9000 Contest
+  - img: img_3678.jpg
+    desc: ""
+  - img: img_3680.jpg
+    desc: HF lineup
+
+tokyo_hy_power:
+  - img: img_3683.jpg
+    desc: Tokyo Hy-Power
+  - img: img_3664.jpg
+    desc: >-
+      Just as in 2006, the HT-200 QRP transceiver still in "concept" form (with 
+      both LED and LCD display versions)
+  - img: img_3648.jpg
+    desc: HTC-817 antenna tuner controller designed for use with the FT-817
+  - img: img_3649.jpg
+    desc: >-
+      HC-5KAT autotuner, HL-5KFX MOSFET HF~50MHz amplifier (1.8~25MHz 3KW, 
+      25~30MHz 2.5KW, 50MHz 1.2KW option)
+  - img: img_3647.jpg
+    desc: HL506V 500W @ 50MHz amplifier
+  - img: img_3646.jpg
+    desc: >-
+      HL650FX/HL550FX compact HF~50MHz MOSFET linear amplifiers, look great for 
+      expeditions
+
+antennas:
+  - img: img_3651.jpg
+    desc: Comet antennas, power supplies, common mode filters
+  - img: img_3652.jpg
+    desc: Comet AA-170 antenna analyzer
+  - img: img_3650.jpg
+    desc: Diamond antennas, power supplies, and accessories
+  - img: img_3715.jpg
+    desc: additions to the Diamond CP Series HF verticals
+  - img: img_3707.jpg
+    desc: <a href="http://www.luso-ns.com/">Luso</a> giant crank-up tower
+  - img: img_3690.jpg
+    desc: Radix antennas
+  - img: img_3689.jpg
+    desc: Radix 144/430 portable antenna
+
+misc:
+  - img: img_3661.jpg
+    desc: >-
+      colorful miniature paddles and whimsical wooden keys from 
+      <a href="http://nomusankoubou.web.fc2.com/">JA9BSL</a>
+  - img: img_3703.jpg
+    desc: more wooden keys from JA9BSL
+  - img: img_3702.jpg
+    desc: wooden key and paddle from JA9BSL
+  - img: img_3662.jpg
+    desc: miniature paddle in a Hello Kitty can from JA9BSL
+  - img: img_3663.jpg
+    desc: >-
+      gleaming works of art <a href="http://www.ghdkey.com/">GHD Telegraph Key</a> 
+      paddles and keys
+  - img: img_3710.jpg
+    desc: CQ Publishing's extensive line of ham books and magazines
+  - img: img_3706.jpg
+    desc: Jacom's imported gear from MFJ, SGC, etc.
+
+clubs:
+  - img: img_3623.jpg
+    desc: Angela ZL2TI visiting the Japan Ladies Radio Society booth
+  - img: img_3617.jpg
+    desc: Yokohama DX Club
+  - img: img_3658.jpg
+    desc: JAMSAT
+  - img: img_3659.jpg
+    desc: >-
+      miniature Mode-UV linear transponder by William Leijenaar, PE1RAH on display 
+      at the JAMSAT booth
+  - img: img_3698.jpg
+    desc: >-
+      <a href="http://japrsx.com/">JAPRSX</a>, supporting the explosive growth of 
+      APRS in Japan recently
+  - img: img_3626.jpg
+    desc: Japan Boy Scouts amateur radio club JA1YSS
+  - img: img_3695.jpg
+    desc: JARL QRP Club
+  - img: img_3691.jpg
+    desc: JA1NHM's Very Tired Key allows you to build some strength as you operate
+  - img: img_3692.jpg
+    desc: >-
+      some of the entrants in the QRP Club's Total Power (Tx, Rx, accessories) 
+      challenge on 144MHz FM (with plans for 21MHz SSB in 2010)
+  - img: img_3699.jpg
+    desc: >-
+      the <i>Mobile 2000 Project</i> has discovered adding a wire across the top 
+      of the Buddipole elements turns it into an effective delta loop
+  - img: img_3696.jpg
+    desc: >-
+      the <a href="http://www.jarl.com/yama/">Yokohama Amateur Microwave 
+      Association</a> (YAMA) has been running a 24GHz beacon from atop Mt. Fuji 
+      during August
+  - img: img_3694.jpg
+    desc: one of the aisles of club booths

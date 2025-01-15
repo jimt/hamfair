@@ -1,0 +1,149 @@
+_index:
+  - img: hamfair2004.jpg
+    desc: "Ham Fair 2004 venue"
+  - img: img_1262.jpg
+    desc: "Entrance to Ham Fair 2004"
+  - img: img_1263.jpg
+    desc: "Main exhibition hall"
+  - img: img_1265.jpg
+    desc: "Commercial exhibits area"
+  - img: img_1267.jpg
+    desc: "Club and flea market area"
+  - img: img_1268.jpg
+    desc: "Displays and demonstrations"
+  - img: img_1269.jpg
+    desc: "Ham radio equipment showcase"
+
+commercial:
+  - img: img_1270.jpg
+    desc: "Latest ham radio equipment on display"
+  - img: img_1271.jpg
+    desc: "New radio models and accessories"
+  - img: img_1272.jpg
+    desc: "Professional radio equipment display"
+  - img: img_1273.jpg
+    desc: "Modern transceiver technology"
+  - img: img_1274.jpg
+    desc: "Digital radio equipment"
+  - img: img_1275.jpg
+    desc: "High-end radio systems"
+
+clubs:
+  - img: img_1276.jpg
+    desc: "Amateur radio club displays"
+  - img: img_1277.jpg
+    desc: "Club activities and demonstrations"
+  - img: img_1278.jpg
+    desc: "Ham radio community projects"
+  - img: img_1279.jpg
+    desc: "Club member presentations"
+  - img: img_1280.jpg
+    desc: "Special event stations"
+
+flea_market:
+  - img: img_1281.jpg
+    desc: "Flea market area overview"
+  - img: img_1282.jpg
+    desc: "Vintage radio equipment"
+  - img: img_1283.jpg
+    desc: "Used equipment for sale"
+  - img: img_1284.jpg
+    desc: "Radio parts and components"
+  - img: img_1285.jpg
+    desc: "Amateur radio accessories"
+
+presentations:
+  - img: img_1286.jpg
+    desc: "Technical presentations"
+  - img: img_1287.jpg
+    desc: "Ham radio workshops"
+  - img: img_1288.jpg
+    desc: "Educational seminars"
+  - img: img_1289.jpg
+    desc: "Live demonstrations"
+  - img: img_1290.jpg
+    desc: "Expert talks"
+
+manufacturers:
+  - img: img_1291.jpg
+    desc: "Major manufacturer displays"
+  - img: img_1292.jpg
+    desc: "New product announcements"
+  - img: img_1293.jpg
+    desc: "Product demonstrations"
+  - img: img_1294.jpg
+    desc: "Technical specifications"
+  - img: img_1295.jpg
+    desc: "Equipment testing area"
+
+technology:
+  - img: img_1296.jpg
+    desc: "Digital mode demonstrations"
+  - img: img_1297.jpg
+    desc: "Software defined radio"
+  - img: img_1299.jpg
+    desc: "Antenna technology"
+  - img: img_1300.jpg
+    desc: "RF equipment"
+  - img: img_1301.jpg
+    desc: "Test equipment"
+
+special_exhibits:
+  - img: img_1302.jpg
+    desc: "Special exhibits area"
+  - img: img_1303.jpg
+    desc: "Historical radio equipment"
+  - img: img_1304.jpg
+    desc: "Amateur satellite communications"
+  - img: img_1305.jpg
+    desc: "Emergency communications"
+  - img: img_1306.jpg
+    desc: "DX operations"
+
+activities:
+  - img: img_1307.jpg
+    desc: "Hands-on activities"
+  - img: img_1308.jpg
+    desc: "QSL card checking"
+  - img: img_1309.jpg
+    desc: "Contest information"
+  - img: img_1310.jpg
+    desc: "Awards ceremony"
+  - img: img_1311.jpg
+    desc: "Special event operations"
+
+international:
+  - img: img_1312.jpg
+    desc: "International amateur radio"
+  - img: img_1313.jpg
+    desc: "Global ham community"
+  - img: img_1314.jpg
+    desc: "International exchanges"
+  - img: img_1315.jpg
+    desc: "Worldwide DX"
+  - img: img_1316.jpg
+    desc: "International cooperation"
+
+clubs:
+  - img: img_1301.jpg
+    desc: "JARL Kansai Region"
+  - img: img_1302.jpg
+    desc: "JAMSAT"
+  - img: img_1303.jpg
+    desc: 'telecomm projects of the <a href="http://www.bhn.or.jp/">Basic Human Needs</a> NGO'
+  - img: img_1272.jpg
+    desc: "Japan Shortwave Club"
+  - img: img_1304.jpg
+    desc: "classic rigs, beautifully displayed on turntables by the Vintage Rig Radio Club"
+  - img: img_1305.jpg
+    desc: ""
+  - img: img_1306.jpg
+    desc: "JF1RNR 7MHz CW Meeting Mate transceiver built by JL1KRA. The Meeting Mate is VXO controlled and is capable of about 500 mW output with a 9V supply."
+  - img: img_1328.jpg
+    desc: ""
+  - img: img_1308.jpg
+    desc: ""
+  - img: img_1309.jpg
+    desc: ""
+  - img: img_1313.jpg
+    desc: '<a href="http://www.jarl.com/yama/">Yokohama Amateur Microwave Association</a> includes some distance world record holders'

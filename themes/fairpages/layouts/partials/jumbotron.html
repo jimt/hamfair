@@ -1,0 +1,14 @@
+{{ if .Title }}
+<div class="bg-light">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-md-8">
+        <h1 class="display-4 fw-bold">{{ .Title }}</h1>
+        {{ with .Params.location }}<p class="fs-4">{{ . }}</p>{{ end }}
+        {{ with .Params.dates }}<p class="fs-4">{{ . }}</p>{{ end }}
+        {{ with .Params.author }}<p>{{ . }}</p>{{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
