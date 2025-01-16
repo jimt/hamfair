@@ -1,4 +1,4 @@
-Overview:
+_index:
   - img: P1000593.jpg
     desc: <a href="http://www.bigsight.jp/english/">Tokyo Big Sight</a> at Odaiba, Tokyo
   - img: P1000568.jpg
@@ -50,7 +50,7 @@ Overview:
   - img: P1000594.jpg
     desc: JASTA slow scan TV
 
-Manufacturers:
+Commercial:
   - img: P1000597.jpg
     desc: >-
       <a href="http://www.aorja.com/">AOR</a> with their usual collection of 
@@ -98,8 +98,6 @@ Manufacturers:
       faceplates
   - img: P1000609.jpg
     desc: Icom IC-7100
-
-Antennas_and_Accessories:
   - img: P1000604.jpg
     desc: Comet
   - img: P1000613.jpg

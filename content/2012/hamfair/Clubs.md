@@ -5,6 +5,6 @@ location: Tokyo Big Sight
 dates: August 25 & 26, 2012
 ---
 
-{{< gallery src="description.yaml" section="clubs" >}}
+{{< gallery src="description.yaml" section="Clubs" >}}
 
 {{< pagesnav >}}

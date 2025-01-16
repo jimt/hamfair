@@ -1,4 +1,4 @@
-Overview:
+_index:
   - img: P1010251.jpg
     desc: >-
       <a href="http://www.jarl.or.jp/Japanese/1_Tanoshimo/1-3_Ham-Fair/Ham-Fair.htm">
@@ -72,7 +72,7 @@ Overview:
   - img: P1010321.jpg
     desc: ""
 
-Icom_Kenwood_and_Yaesu:
+Icom_Kenwood_Yaesu:
   - img: P1010279.jpg
     desc: >-
       Icom "concept model" of a black box D-STAR radio with tablet/smartphone user 
@@ -104,7 +104,7 @@ Icom_Kenwood_and_Yaesu:
   - img: P1010305.jpg
     desc: ""
 
-Other_Manufacturers:
+Exhibits:
   - img: P1010277.jpg
     desc: Alinco demonstrating SDR transceiver that works with PC sound card
   - img: P1010278.jpg
@@ -140,7 +140,7 @@ Other_Manufacturers:
   - img: P1010269.jpg
     desc: ""
 
-clubs:
+Clubs:
   - img: P1010298.jpg
     desc: <a href="http://www.jamsat.or.jp/">JAMSAT</a>
   - img: P1010299.jpg

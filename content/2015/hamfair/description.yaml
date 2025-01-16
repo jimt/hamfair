@@ -1,4 +1,4 @@
-Overview:
+_index:
   - img: P1010599.jpg
     desc: <a href="http://www.jarl.or.jp/Japanese/1_Tanoshimo/1-3_Ham-Fair/Ham-Fair.htm">Japan Ham Fair 2015</a> at Tokyo Big Sight Convention Center
   - img: P1010617.jpg
@@ -72,7 +72,7 @@ Icom_Kenwood_Yaesu:
   - img: P1010651.jpg
     desc: Yaesu Fusion radios
 
-exhibits:
+Exhibits:
   - img: P1010652.jpg
     desc: <a href="http://www.alinco.com/">Alinco</a> may be best known for their VHF/UHF mobile and handheld radios, but they also offer a couple of HF transceivers and a variety of station accessories.
   - img: P1010609.jpg
@@ -106,9 +106,7 @@ exhibits:
   - img: P1010674.jpg
     desc: commercial vendors appeared to do a brisk business this year
 
-clubs:
-  - img: P1010621.jpg
-    desc: Club (and flea market) area
+Clubs:
   - img: P1010625.jpg
     desc: <a href="http://www.cwops.org/">The CW Operators Club</a>
   - img: P1010626.jpg

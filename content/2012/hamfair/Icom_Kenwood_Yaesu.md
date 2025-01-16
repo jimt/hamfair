@@ -1,8 +1,7 @@
 ---
-title: Hamfair 2015
+title: Hamfair 2012
 location: Tokyo Big Sight
-dates: August 22 & 23, 2015
-author: Jim Tittsler 7J1AJH/AI8A
+dates: August 25 & 26 2012
 ---
 
 {{< gallery src="description.yaml" section="Icom_Kenwood_Yaesu" >}}

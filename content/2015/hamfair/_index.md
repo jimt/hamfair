@@ -1,7 +1,10 @@
 ---
-title: Ham Fair 2015
+title: Hamfair 2015
+location: Tokyo Big Sight
+dates: August 22 & 23, 2015
+author: Jim Tittsler 7J1AJH/AI8A
 ---
 
-{{< gallery src="description.yaml" >}}
+{{< gallery src="description.yaml" section="_index">}}
 
-{{< pagesnav src="description.yaml" >}}
+{{< pagesnav >}}

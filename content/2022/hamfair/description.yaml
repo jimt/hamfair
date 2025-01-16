@@ -3,22 +3,104 @@ _index:
     desc: JARL Ham Fair 2022, in the new South Halls
   - img: p1050194.jpg
     desc: Tokyo Big Sight
+  - img: PXL_20220821_015944327.jpg
+    desc: ""
+  - img: PXL_20220821_020650260.jpg
+    desc: ""
+  - img: PXL_20220821_020658218.jpg
+    desc: ""
   - img: p1050196.jpg
     desc: antennas atop the convention center roof
   - img: p1050197.jpg
     desc: antennas atop the convention center roof
   - img: p1050198.jpg
-    desc: antennas atop the convention center roof
-  - img: PXL_20220821_021515256.MP.jpg
+    desc: 8J1HAM special event station
+  - img: PXL_20220821_021515256.jpg
     desc: 50 MHz SSB QRP Transceiver by JA8CXX
   - img: p1050225.jpg
     desc: the "forums" are held in the middle of the hall, which doesn't make for great acoustics
-  - img: PXL_20220821_043729805.MP.jpg
+  - img: PXL_20220821_043729805.jpg
     desc: Watanabe-san explaining N.U. Cosmic Campus with the Ten-Koh2 satellite
 
-icom-kenwood-yaesu:
-  - img: PXL_20220821_032523650.MP.jpg
+icom_kenwood_yaesu:
+  - img: p1050204.jpg
+  - img: p1050205.jpg
+  - img: p1050206.jpg
+  - img: p1050207.jpg
+  - img: p1050208.jpg
+  - img: p1050210.jpg
+  - img: p1050227.jpg
+  - img: PXL_20220821_031657976.jpg
+  - img: PXL_20220821_031824957.jpg
+  - img: PXL_20220821_031826968.jpg
+  - img: PXL_20220821_030754380.jpg
+    desc: Icom IC-905 V/UHF rig, with SHF option
+  - img: PXL_20220821_022012028.jpg
+  - img: PXL_20220821_021929573.jpg
+    desc: Kenwood booth
+  - img: PXL_20220821_032523650.jpg
     desc: Kenwood
   - img: p1050203.jpg
     desc: Kenwood
   - img: p1050214.jpg
+  - img: p1050201.jpg
+  - img: p1050218.jpg
+  - img: PXL_20220821_021745099.jpg
+  - img: PXL_20220821_021900309.jpg
+  - img: p1050228.jpg
+    desc: Yaesu FT-710
+  - img: p1050229.jpg
+    desc: Yaesu FT-710
+
+misc:
+  - img: PXL_20220821_021458915.jpg
+    desc: Homebrew contest
+  - img: PXL_20220821_022109193.jpg
+    desc: '<a href="https://www.cqcqde.com/">CQ Ohm</a> retailer'
+  - img: PXL_20220821_022128337.jpg
+    desc: '<a href="http://www.ghdkey.com/">GHD Telegraph Key</a>'
+  - img: PXL_20220821_022925859.jpg
+  - img: PXL_20220821_023129644.jpg
+  - img: PXL_20220821_023221473.jpg
+  - img: PXL_20220821_023250381.jpg
+  - img: PXL_20220821_023756041.jpg
+  - img: PXL_20220821_025818833.jpg
+  - img: PXL_20220821_030811499.jpg
+  - img: PXL_20220821_031155727.jpg
+    desc: Diamond
+  - img: PXL_20220821_031502598.jpg
+  - img: PXL_20220821_031553065.jpg
+    desc: Alinco DJ-X100
+  - img: PXL_20220821_031639324.jpg
+    desc: FTI towers and installation
+  - img: PXL_20220821_032319311.jpg
+  - img: PXL_20220821_032359813.jpg
+    desc: WRTC 2022
+  - img: PXL_20220821_050214669.jpg
+  - img: PXL_20220821_051544211.jpg
+    desc: 8J1HAM
+  - img: PXL_20220821_051918386.jpg
+    desc: 8J1HAM antenna farm on the roof
+  - img: PXL_20220821_051921266.jpg
+    desc: 8J1HAM antenna farm on the roof
+  - img: PXL_20220821_051950013.jpg
+    desc: 8J1HAM antenna farm on the roof
+  - img: p1050199.jpg
+    desc: 8J1HAM special event station
+  - img: p1050200.jpg
+  - img: p1050209.jpg
+  - img: p1050212.jpg
+    desc: Azden booth
+  - img: p1050211.jpg
+  - img: PXL_20220821_032148412.jpg
+    desc: Azden antenna disonnector
+    desc: Azden AZR-1000 amplifier
+  - img: p1050215.jpg
+  - img: p1050217.jpg
+    desc: CQ Publishing
+  - img: p1050219.jpg
+    desc: AOR
+  - img: p1050221.jpg
+  - img: p1050222.jpg
+    desc: Alinco booth
+  - img: p1050224.jpg

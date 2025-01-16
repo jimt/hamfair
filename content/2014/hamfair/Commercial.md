@@ -5,6 +5,6 @@ dates: August 23 & 24, 2014
 author: Jim Tittsler 7J1AJH/AI8A
 ---
 
-{{< gallery src="description.yaml" section="_index">}}
+{{< gallery src="description.yaml" section="Commercial" >}}
 
-{{< pagesnav src="description.yaml" >}}
+{{< pagesnav >}}
