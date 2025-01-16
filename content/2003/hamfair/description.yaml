@@ -1,55 +1,36 @@
 _index:
+  - img: img_0641.jpg
+    desc: Japan Ham Fair 2013
   - img: img_0596.jpg
     desc: >-
       The Tokyo Big Sight International Convention Center, as one of the 
       Yurikamome trains passes.
+  - img: img_0655.jpg
+    desc: The entrance to the exhibit hall.
   - img: img_0597.jpg
     desc: >-
       8N1HAM special event station had stations from 7MHz to 10.1GHz.
-  - img: img_0599.jpg
+  - img: img_0646.jpg
     desc: >-
-      The Vertex Standard booth showing the Yaesu line of amateur products.
-  - img: img_0601.jpg
+      8N1HAM antennas on the roof plaza of the convention center overlooking Tokyo 
+      Bay.
+  - img: img_0644.jpg
+    desc: JA3CKF with his wind-powered FT-817.
+  - img: img_0690.jpg
+    desc: Antennas and rigs on sale at the Tomei Denshi Co.
+  - img: img_0691.jpg
+    desc: <a href="http://www.jacom.com/">Jacom</a> showing their line of MFJ and SGC products.
+  - img: img_0692.jpg
     desc: >-
-      The Icom booth featured the IC-7800 with a giant version on the wall with a 
-      live display via a plasma TV.
-  - img: img_0603.jpg
-    desc: >-
-      IC-7800 with such computer-like features as a color LCD and front panel 
-      compact flash card slot.
-  - img: img_0605.jpg
-    desc: >-
-      The Icom D-Star system of digital 1.2GHz radios and repeaters, with10GHz 
-      repeater links.
-  - img: img_0606.jpg
-    desc: >-
-      Alinco DX-801 covers 1.6~29.999 MHz in FM, SSB, and AM and sports a 
-      detachable front panel.
-  - img: img_0609.jpg
-    desc: >-
-      Alinco DR-620 144MHz/430MHz radio has display and button backlighting that 
-      can be switched between orange, blue, and violet.
-  - img: img_0611.jpg
-    desc: >-
-      New Kenwood HF/50MHz radio with detachable front panel and built-in RS-232 
-      control port.
-  - img: img_0613.jpg
-    desc: >-
-      With its built-in control port and detachable front panel, the new 
-      transceiver is a natural for computer control and space-limited 
-      installations.
+      After an absence of several years, <a href="http://www.luso-sn.com/">Luso</a> is back in a <b>big</b> way.  They are offering <b>giant</b> motorized crank-up towers, like the Luso 28NS of which only a tiny portion is shown here.  This thing is so massive that you had to wonder how they got it into the exhibit hall, and how they got it erected once it was inside.  It makes the standard amateur towers in the next aisle look tiny by comparison.
 
-page2:
-  - img: img_0617.jpg
-    desc: Kenwood TH-K2 and TH-K4 simple single-band HTs.
-  - img: img_0618.jpg
-    desc: Kenwood TH-K2 and TH-K4 simple single-band HTs.
-  - img: img_0619.jpg
-    desc: Kenwood TH-K4 430 MHz HT.
-  - img: img_0620.jpg
-    desc: Comet Antennas
-  - img: img_0621.jpg
-    desc: Diamond Antennas
+alinco_aor:
+  - img: img_0606.jpg
+    desc: The Alinco DX-801 covers 1.6~29.999 MHz in FM, SSB, and AM and sports a detachable front panel.   It is intended to be a replacement for the DX-701 in the land-mobile HF service. It adds GMSK digital F1E voice to the existing SSB and AM modes.
+  - img: img_0607.jpg
+    desc: Alinco DX-801 HF Transceiver
+  - img: img_0609.jpg
+    desc: Alinco DR-620 144MHz/430MHz radio has display and button backlighting that can be switched between orange, blue, and violet.
   - img: img_0623.jpg
     desc: AOR
   - img: img_0624.jpg
@@ -57,35 +38,23 @@ page2:
   - img: img_0625.jpg
     desc: AOR AR8200 MK3 "desktop receiver in disguise."
   - img: img_0626.jpg
-    desc: AOR ARD9600 multi-mode and digital voice interface.
-  - img: img_0631.jpg
-    desc: >-
-      Diamond TV2400-TX transmitter (50 mW of F5,F9 video on either of 2 channels 
-      2417 or 2436 MHz with 12 VDC supply) and TV2400-RX receiver.
-  - img: img_0632.jpg
-    desc: >-
-      Diamond TV2400-TX transmitter (50 mW of F5,F9 video on either of 2 channels 
-      2417 or 2436 MHz with 12 VDC supply) and TV2400-RX receiver.
-  - img: img_0633.jpg
-    desc: >-
-      Comet dry dummy loads, the DL-1500C on the left is rated at 1.5 KW PEP, and 
-      the DL-3000C is rated at 3 KW PEP.
+    desc: The <a href="http://www.aorja.com/ard9800e.html">AOR ARD9600</a> multi-mode and digital voice interface converts a standard analog transceiver into one that supports digital voice (and video).
 
-page3:
+comet_diamond:
+  - img: img_0620.jpg
+    desc: <a href="http://www.comet-ant.co.jp/">Comet</a> introduced a number of new products, including the CP-54 5 meter push-up aluminum mast that collapses to 1.95M. A drive-over, tilt-up base, the MCB-II, can be used to anchor it in place.
+  - img: img_0636.jpg
+    desc: Comet mobile antennas for 2.4GHz, 1.2GHz, and 430MHz.
   - img: img_0634.jpg
     desc: >-
       Comet dry dummy loads, the DL-1500C on the left is rated at 1.5 KW PEP, and 
       the DL-3000C is rated at 3 KW PEP.
-  - img: img_0635.jpg
-    desc: Comet mobile antennas for 2.4GHz, 1.2GHz, and 430MHz.
-  - img: img_0636.jpg
-    desc: Comet mobile antennas for 2.4GHz, 1.2GHz, and 430MHz.
-  - img: img_0637.jpg
+  - img: img_0622.jpg
+    desc: Diamond booth
+  - img: img_0631.jpg
     desc: >-
-      New Diamond verticals, left to right: SE100 2.25 meter tall 144/430 antenna, 
-      SE5000 2.25 meter tall 144/430/1290 antenna, GH10R a 4.5 meter tall 28~29 
-      MHz antenna, and the GH4015NR which is about 6 meters tall and covers 7/21 
-      MHz
+      Diamond TV2400-TX transmitter (50 mW of F5,F9 video on either of 2 channels 
+      2417 or 2436 MHz with 12 VDC supply) and TV2400-RX receiver.
   - img: img_0638.jpg
     desc: >-
       New Diamond verticals, left to right: SE100 2.25 meter tall 144/430 antenna, 
@@ -94,70 +63,65 @@ page3:
       MHz
   - img: img_0639.jpg
     desc: Diamond D303 HF "all band" antenna (Y19,800)
-  - img: img_0640.jpg
-    desc: Diamond D303 HF "all band" antenna (Y19,800)
-  - img: img_0643.jpg
-    desc: JA3CKF with his wind-powered FT-817.
-  - img: img_0644.jpg
-    desc: JA3CKF with his wind-powered FT-817.
-  - img: img_0646.jpg
-    desc: >-
-      8N1HAM antennas on the roof plaza of the convention center overlooking Tokyo 
-      Bay.
-  - img: img_0647.jpg
-    desc: >-
-      8N1HAM antennas on the roof plaza of the convention center overlooking Tokyo 
-      Bay.
-  - img: img_0648.jpg
-    desc: >-
-      8N1HAM antennas on the roof plaza of the convention center overlooking Tokyo 
-      Bay.
 
-page4:
-  - img: img_0655.jpg
-    desc: The entrance to the exhibit hall.
+icom:
+  - img: img_0601.jpg
+    desc: The Icom booth featured the IC-7800 with a giant version on the wall with a live display via a plasma TV.
+  - img: img_0603.jpg
+    desc: IC-7800 with such computer-like features as a color LCD and front panel compact flash card slot.
+  - img: img_0605.jpg
+    desc: The Icom D-Star system of digital 1.2GHz radios and repeaters, with 10GHz repeater links.
+
+kenwood:
+  - img: img_0613.jpg
+    desc: A new Kenwood HF/50MHz radio with detachable front panel and built-in RS-232 control port is a natural for computer control and space-limited installations.
+  - img: img_0612.jpg
+    desc: New HF/50MHz radio features
+  - img: img_0614.jpg
+    desc: ""
+  - img: img_0615.jpg
+    desc: ""
+  - img: img_0617.jpg
+    desc: Kenwood TH-K2 and TH-K4 simple single-band HTs.
+  - img: img_0619.jpg
+    desc: Kenwood TH-K4 430 MHz HT.
+
+yaesu:
+  - img: img_0599.jpg
+    desc: The Vertex Standard booth showing the Yaesu line of amateur products.
   - img: img_0656.jpg
     desc: WiRES at the Standard booth.
   - img: img_0657.jpg
-    desc: >-
-      The Yaesu portable/mobile line-up, featuring the FT-857, FT-817, and FT-897.
+    desc: The Yaesu portable/mobile line-up, featuring the FT-857, FT-817, and FT-897.
   - img: img_0658.jpg
-    desc: >-
-      The Yaesu portable/mobile line-up, featuring the FT-857, FT-817, and FT-897.
+    desc: The ATAS-25 antenna for 7/14/21/28/50/144/430 MHz.
   - img: img_0659.jpg
     desc: What's inside a Yaesu VL-1000 Quadra HF/50 MHz amplifier.
   - img: img_0660.jpg
     desc: The Yaesu VX-7 "submersible" 50/144/430 HT.
   - img: img_0661.jpg
-    desc: >-
-      The Yaesu VX-5 50/144/430 HT and the diminutive VX-2 1.5W/1.0W 144/430 HT.
+    desc: The Yaesu VX-5 50/144/430 HT and the diminutive VX-2 1.5W/1.0W 144/430 HT.
   - img: img_0662.jpg
     desc: >-
-      Yaesu receivers: VR-5000 (0.1~2600 MHz), VR-500 (0.1~1300 MHz), and 
-      VR-150.
+      Yaesu receivers: VR-5000 (0.1~2600 MHz), VR-500 (0.1~1300 MHz), and VR-150.
   - img: img_0663.jpg
     desc: Yaesu antenna rotators.
-  - img: img_0664.jpg
-    desc: >-
-      Vintage Rig Radio Club dedicated to restoring and preserving classic rigs.  
-      This can involve completely stripping the chassis and panels, restoring 
-      them, and reassembling the radio.
+
+clubs:
   - img: img_0665.jpg
     desc: >-
       Vintage Rig Radio Club dedicated to restoring and preserving classic rigs.  
       This can involve completely stripping the chassis and panels, restoring 
       them, and reassembling the radio.
+  - img: img_0668.jpg
+    desc: The JAMSAT booth seemed to be busy throughout the day.
   - img: img_0666.jpg
     desc: >-
       The Packet Radio Users Group (PRUG) had a live video feed from the 8N1HAM 
       special event station and were making it available as a RealVideo stream on 
       the Internet.
-
-page5:
-  - img: img_0667.jpg
-    desc: The JAMSAT booth seemed to be busy throughout the day.
-  - img: img_0668.jpg
-    desc: The JAMSAT booth seemed to be busy throughout the day.
+  - img: img_0681.jpg
+    desc: 29FM Pacific Radio Network (PRN)
   - img: img_0669.jpg
     desc: >-
       The Japan Amateur Slowscan TV Association (JASTA) was demonstrating a 
@@ -168,3 +132,24 @@ page5:
     desc: >-
       The <a href="http://www.qsl.net/7j1yaa/">Tokyo International Amateur Radio 
       Association</a> (TIARA)
+  - img: img_0671.jpg
+    desc: The <a href="http://village.infoweb.ne.jp/~jasta/">Japan Amateur Slowscan TV Association</a> (JASTA) was demonstrating a variety of hardware and software for slow scan.  They also were demonstrating <a href="http://www.ss-tv.net/">the real time JA8ANQ SSTV receive server</a>.
+  - img: img_0672.jpg
+    desc: The <a href="http://www5b.biglobe.ne.jp/~a1c/index_e.html">JARL A1 Club</a>, JO1ZZZ, demonstrated everything from classic keys to using eQSO for Internet MCW contacts.
+  - img: img_0675.jpg
+    desc: The <a href="http://www.din.or.jp/~jk1ewy/">Facsimile Club</a> showed a number of high tech solutions to transmit faxes by amateur radio, including for color fax TX/RX.
+  - img: img_0676.jpg
+    desc: Chris, W6HFP, explains the <a href="http://www.buddipole.com">Buddipole</a> portable dipole at the Mobile2000 club booth. (<a href="http://www.buddipole.jp/">Japanese version</a>)
+  - img: img_0677.jpg
+    desc: A Christmas tree of microwave gear at the <a href="http://www.jarl.com/yama/">Yokohama Amateur Microwave Association</a> (YAMA) booth.
+  - img: img_0685.jpg
+    desc: The Kansai Microwave Study Group showed off a 5GHz/10Ghz omni antenna made from a pair of frying pans. (See <i>CQ ham radio</i>, January 2000 for complete details.)
+  - img: img_0686.jpg
+    desc: Japan's first 24GHz beacon from the Kansai group.
+  - img: img_0689.jpg
+    desc: The Vietnam-Japan Friendship Ham Club booth.
+  - img: img_0684.jpg
+    desc: Giant Vuntec amplifiers from Portland, OR. The LP3000 in the foreground sports a pair of 3CX800A7s. In back are 3CX3000A7 amplifiers.
+  - img: img_0687.jpg
+    desc: The <a href="http://ww4.et.tiki.ne.jp/~nksg/ham/usbif4cw/">USBIF4CW</a> is a USB rig interface especially for CW operation.
+

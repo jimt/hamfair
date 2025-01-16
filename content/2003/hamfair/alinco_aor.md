@@ -3,9 +3,9 @@ title: Japan Ham Fair 2003
 dates: August 23 & 24, 2003
 author: Jim Tittsler 7J1AJH/AI8A
 location: Tokyo Big Sight
-aliases: ["page5.html"]
+aliases: ["index2.html"]
 ---
 
-{{< gallery src="description.yaml" section="page5" >}}
+{{< gallery src="description.yaml" section="alinco_aor" >}}
 
 {{< pagesnav >}}
