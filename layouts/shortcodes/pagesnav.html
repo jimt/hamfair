@@ -7,13 +7,16 @@
   <ul class="pagination justify-content-center">
     {{ $lines := split $yamlContent "\n" }}
     {{ range $lines }}
-      {{ if findRE "^[a-zA-Z0-9_]+:" . }}
-        {{ $key := replaceRE "^([a-zA-Z0-9_]+):.*$" "$1" . }}
-        <li class="page-item{{ if eq (lower $key) $currentSection }} active{{ end }}">
+      {{ if findRE "^[a-zA-Z0-9_-]+:" . }}
+        {{ $key := replaceRE "^([a-zA-Z0-9_-]+):.*$" "$1" . }}
+        {{ $normalizedKey := $key | lower }}
+        {{ $displayKey := replaceRE "[_-]" " " $key }}
+        {{ $urlKey := replaceRE "-" "_" $normalizedKey }}
+        <li class="page-item{{ if eq (lower $currentSection) $normalizedKey }} active{{ end }}">
           {{ if eq $key "_index" }}
             <a class="page-link" href="/{{ $yamlDir }}">Overview</a>
           {{ else }}
-            <a class="page-link" href="/{{ $yamlDir }}{{ lower $key }}">{{ $key }}</a>
+            <a class="page-link" href="/{{ $yamlDir }}{{ $urlKey }}">{{ $displayKey }}</a>
           {{ end }}
         </li>
       {{ end }}
