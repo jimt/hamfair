@@ -1,124 +1,165 @@
 _index:
   - img: img_0016.jpg
     desc: Tokyo Big Sight (sic)
-  - img: img_0017.jpg
-    desc: >-
-      antennas on the roof, along with the EDC Force 12 van
-  - img: img_0021.jpg
-    desc: Icom IC-703 QRP Rig
-  - img: img_0022.jpg
-    desc: Icom IC-T90
-  - img: img_0023.jpg
-    desc: IC-2720 dual bander
-  - img: img_0025.jpg
-    desc: Yaesu WiRES Internet linking system
-  - img: img_0027.jpg
-    desc: FT-897 die-cast chassis
-  - img: img_0029.jpg
-    desc: FT-8900 29, 50, 144, 430 quad bander
-  - img: img_0031.jpg
-    desc: Kenwood APRS
-  - img: img_0033.jpg
-    desc: Kenwood NAVI-TRA
-  - img: img_0034.jpg
-    desc: >-
-      Kenwood dual-band handie with wideband receiver that does SSB &amp; CW
-  - img: img_0036.jpg
-    desc: >-
-      8N1HAM special event station with stations from HF to 5.6 GHz
-
-page2:
+  - img: img_0059.jpg
+    desc: Tokyo Big Sight
+  - img: img_0018.jpg
+    desc: Japan Ham Fair 2002
+  - img: img_0094.jpg
+    desc: ""
+  - img: img_0050.jpg
+    desc: Azden 50th anniversary special edition 10M and 6M FM rigs. Only 50 of each model will be sold, at Y30,000 each (US$250).
   - img: img_0037.jpg
-    desc: AOR AR8200 Mark3 does 0.5 ~ 3000 MHz
+    desc: AOR AR8200 Mark3 receives 0.5 ~ 3000 MHz, sports an improved display and a higher capacity battery pack.
   - img: img_0038.jpg
-    desc: AOR AR-108 air band scanner
+    desc: The AOR AR-108 compact scanner covers the air band (108~137MHz AM) and 136-174 MHz FM.
+  - img: img_0093.jpg
+    desc: <A HREF="http://www.edcjp.co.jp/ham.html">EDC</A> with products from Force 12, Super Antennas, Heil, Elecraft, Vibroplex, Wilderness Radio, Palm Radio
+  - img: img_0044.jpg
+    desc: <A HREF="http://www.jacom.com/">JACOM</A> showing a range of SGC and MFJ products
+  - img: img_0043.jpg
+    desc: keys and paddles from <A HREF="http://www.ghdkey.com/">GHD Key</A>
+  - img: img_0036.jpg
+    desc: 8N1HAM special event station with stations from HF to 5.6 GHz
+  - img: img_0017.jpg
+    desc: antennas on the roof, along with the EDC Force 12 van
+  - img: img_0081.jpg
+    desc: JARL is celebrating its 75th anniversary
+  - img: img_0080.jpg
+    desc: A few of the many overseas society journals received at JARL
+
+Homebrew:
+  - img: img_0105.jpg
+    desc: entries
+  - img: img_0104.jpg
+    desc: "<b>top:</b> JA0DFR 5.6GHz converter, <b>bottom:</b> Takemura-san's small MMIC-based AO-40 2.4GHz converter"
+  - img: img_0102.jpg
+    desc: "<b>left:</b> humor prize JF2NMY sardine can 7MHz transmitter, <b>right:</b> JJ1INO compact QRPp transceiver"
+  - img: img_0103.jpg
+    desc: "<b>top:</b> JN1AYV low NF modified Drake 2.4GHz converter, <b>bottom:</b> 7N2OZE 1.2GHz receiving converter"
+  - img: img_0100.jpg
+    desc: homebrew contest entries
+  - img: img_0101.jpg
+    desc: "<b>top:</b> JN3VRJ solar-powered 2.4 GHz test set"
+  - img: img_0099.jpg
+    desc: JA1AKA 5.7GHz disc antenna, with JA2DES magnetic loop for 3.5, 7 and 10MHz 
+      visible behind it
+
+Alinco:
+  - img: img_0042.jpg
+    desc: Alinco booth
   - img: img_0039.jpg
     desc: Alinco handhelds
   - img: img_0040.jpg
-    desc: Alinco DR-620 dual band transceiver
-  - img: img_0043.jpg
-    desc: >-
-      keys and paddles from <A HREF="http://www.ghdkey.com/">GHD Key</A>
-  - img: img_0044.jpg
-    desc: >-
-      <A HREF="http://www.jacom.com/">JACOM</A> showing a range of SGC and MFJ 
-      products
+    desc: Alinco DR-620 dual band transeiver
+  - img: img_0041.jpg
+    desc: Alinco DR-620 dual band transeiver
+
+Antennas:
   - img: img_0047.jpg
-    desc: >-
-      dishes and loop yagis from <A HREF="http://www.makidenki.co.jp/">Maki 
-      Denki</A>
+    desc: dishes and loop yagis from <A HREF="http://www.makidenki.co.jp/">Maki Denki</A>
   - img: img_0048.jpg
     desc: tiny antenna tuners from Mizuho
-  - img: img_0050.jpg
+  - img: img_0057.jpg
+    desc: <i>large</i> magnetic loops from <A HREF="http://www.fr-radio.com/">FR Radio</A>
+  - img: img_0058.jpg
+    desc: FR Radio loop
+  - img: img_0064.jpg
+    desc: Diamond antennas, including DP7RH 7~10 MHz portable dipole (Y16,000)
+  - img: img_0065.jpg
+    desc: Diamond
+  - img: img_0076.jpg
+    desc: <A HREF="http://www.radix-inc.com/">Radix</A> antennas
+  - img: img_0077.jpg
+    desc: Radix
+  - img: img_0079.jpg
     desc: >-
-      Azden 50th anniversary special edition 10M and 6M FM rigs
-  - img: img_0051.jpg
-    desc: Kenwood TS-2000 PC remote control software
+      W3FF describing the <A HREF="http://www.buddipole.com/">Buddipole</A>
+  - img: img_0092.jpg
+    desc: Mini Multi Antennas
+
+Icom:
+  - img: img_0020.jpg
+    desc: Icom booth featuring IC-703 QRP Rig
+  - img: img_0019.jpg
+    desc: Icom booth showing IC-R5 handheld receiver and IC-756 Pro II displays.
+  - img: img_0089.jpg
+    desc: ""
+  - img: img_0021.jpg
+    desc: The new 10W Icom <a href="http://www.icom.co.jp/ce/ham/products/ic-703/index.html">IC-703</a> HF+50MHz QRP rig, which is the same size as the IC-706, but includes space for an optional internal AH-4 automatic antenna tuner.  It operates down to 9.6 V (250mA idle, 450mA receive with DSP off, 2A at 5W transmit). It looks like an IC-706, except with an orange display and orange front panel accents, and without the heatsink fins on the rear panel.
+  - img: img_0022.jpg
+    desc: Icom IC-T90
+  - img: img_0023.jpg
+    desc: IC-2720 independent dual band transceiver with wideband receiver
   - img: img_0052.jpg
     desc: Icom D-Star digital series
   - img: img_0053.jpg
     desc: Icom ID-1 digital transceiver
 
-page3:
-  - img: img_0054.jpg
-    desc: >-
-      retro RTTY from the Japan Amateur Radio Teleprinter Society
-  - img: img_0056.jpg
-    desc: >-
-      retro SSTV from the Japan Amateur Slowscan Tv Association (JASTA)
-  - img: img_0057.jpg
-    desc: >-
-      <i>large</i> magnetic loops from <A HREF="http://www.fr-radio.com/">FR 
-      Radio</A>
+Kenwood:
+  - img: img_0034.jpg
+    desc: Kenwood dual-band handie with wideband receiver that does SSB &amp; CW
+  - img: img_0035.jpg
+    desc: Kenwood TH-F7
+  - img: img_0031.jpg
+    desc: Kenwood APRS
+  - img: img_0032.jpg
+    desc: Kenwood APRS
+  - img: img_0033.jpg
+    desc: Kenwood NAVI-TRA
+  - img: img_0063.jpg
+    desc: APRS demo
   - img: img_0061.jpg
     desc: APRS demo at the Kenwood booth
-  - img: img_0064.jpg
-    desc: >-
-      Diamond antennas, including DP7RH 7~10 MHz portable dipole (Y16,000)
-  - img: img_0069.jpg
-    desc: WiRES demo at the Standard/Yaesu booth
+  - img: img_0097.jpg
+    desc: Kenwood TS-2000 remote control
+  - img: img_0051.jpg
+    desc: Kenwood TS-2000 PC remote control software
+
+Yaesu:
+  - img: img_0029.jpg
+    desc: FT-8900 29, 50, 144, 430 quad bander alongside the FT-100D
+  - img: img_0030.jpg
+    desc: Yaesu FT-8900 quad band transceiver
+  - img: img_0086.jpg
+    desc: 'Yaesu FT-897 "Mobile Base Station"'
+  - img: img_0027.jpg
+    desc: FT-897 die-cast chassis
   - img: img_0073.jpg
-    desc: >-
-      inside the bottom of an FT-897 showing the twin fans and twin 4500 mAH 
-      Ni-MH battery packs
+    desc: inside the bottom of an FT-897 showing the twin fans and twin 4500 mAH Ni-MH battery packs
   - img: img_0074.jpg
     desc: >-
       The FT-897 battery charging scheme&#58; PA-26 AC-Adapter (24VDC, 1.85A) to 
       CD-24 Rapid Charger to battery.  Each battery has its own rear panel 
       charging connector.
-  - img: img_0076.jpg
-    desc: >-
-      <A HREF="http://www.radix-inc.com/">Radix</A> antennas
-  - img: img_0079.jpg
-    desc: >-
-      W3FF describing the <A HREF="http://www.buddipole.com/">Buddipole</A>
-  - img: img_0080.jpg
-    desc: >-
-      some of the many overseas society journals received at JARL
-  - img: img_0081.jpg
-    desc: JARL is celebrating its 75th anniversary
+  - img: img_0069.jpg
+    desc: WiRES demo at the Standard/Yaesu booth
+  - img: img_0071.jpg
+    desc: WIRES demo
+  - img: img_0025.jpg
+    desc: The Standard WiRES Internet linking system interfaces between an Internet-connected PC and a transceiver.
+  - img: img_0084.jpg
+    desc: FT-817 and <i>Club 817</i> connector
+  - img: img_0087.jpg
+    desc: Yaesu Mark V Field
+  - img: img_0028.jpg
+    desc: ""
+  - img: img_0067.jpg
+    desc: ""
+  - img: img_0026.jpg
+    desc: ""
 
-page4:
-  - img: img_0092.jpg
-    desc: Mini Multi Antennas
-  - img: img_0093.jpg
-    desc: >-
-      <A HREF="http://www.edcjp.co.jp/ham.html">EDC</A> with products from Force 
-      12, Super Antennas, Heil, Elecraft, Vibroplex, Wilderness Radio, Palm Radio
-  - img: img_0097.jpg
-    desc: Kenwood TS-2000 remote control
-  - img: img_0099.jpg
-    desc: >-
-      JA1AKA 5.7GHz disc antenna, with JA2DES magnetic loop for 3.5, 7 and 10MHz 
-      visible behind it
-  - img: img_0100.jpg
-    desc: homebrew contest entries
+Clubs:
   - img: img_0106.jpg
-    desc: JARL QRP Club
+    desc: <a href="http://www.jarl.com/qrp/">JARL QRP Club</a>
   - img: img_0107.jpg
-    desc: >-
-      a few of the many rigs at the JARL QRP Club booth
+    desc: a few of the many rigs at the JARL QRP Club booth
+  - img: img_0054.jpg
+    desc: JA9LX and JA1JDD behind the <a href="http://www.edsoftz.com/JARTS/">Japan Amateur Radio Teleprinter Society</a> booth with some of their "RTTY museum"
+  - img: img_0055.jpg
+    desc: ""
+  - img: img_0056.jpg
+    desc: retro SSTV from the Japan Amateur Slowscan Tv Association (JASTA)
   - img: img_0108.jpg
-    desc: >-
-      <A HREF="http://www.qsl.net/7j1yaa/">Tokyo International Amateur Radio 
-      Association</A> (TIARA)
+    desc: <A HREF="http://www.qsl.net/7j1yaa/">Tokyo International Amateur Radio Association</A> (TIARA)
+

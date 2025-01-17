@@ -3,6 +3,7 @@ title: Japan Ham Fair 2001
 dates: 31 August to 2 September, 2001
 location: Yokohama
 author: Jim Tittsler 7J1AJH/AI8A
+aliases: ["index2.html", "index3.html"]
 ---
 
 [Ham Fair 2001](http://www.jarl.or.jp/Japanese/1_Tanoshimo/1-3_Ham-Fair/Ham-Fair.htm) was held in Yokohama, about 45 minutes south of Tokyo

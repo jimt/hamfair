@@ -11,6 +11,30 @@ _index:
     desc: "Ham Fair 2001 displays"
   - img: aut_0117.jpg
     desc: "Ham Fair 2001 exhibits"
+  - img: aut_0035.jpg
+    desc: "8J1HAM Special Event Station. A PSK-31 demonstration drew a crowd. Meanwhile, the station was on all bands from 3.5 MHz to 1.2 GHz."
+  - img: aut_0027.jpg
+    desc: 'Vern Wright, W6MMA, of <a href="http://www.superantennas.com/">SuperAntennas</a> showing off the MP-1 and MP-2 at the <a href="http://www.edcjp.jp/">EDC</a> booth.'
+  - img: aut_0028.jpg
+    desc: 'EDC imports a variety of US gear, much of it for the QRPer. They market the <a href="http://www.elecraft.com/">Elecraft</a> and <a href="http://www.fix.net/~jparker/wild.html">Wilderness Radio</a> rigs in Japan, and are also importers of <a href="http://www.heilsound.com/">Heil</a> microphones, Vibroplex and <a href="http://www.ulmnetz.de/HANNES/english/english.html">Palm Radio</a> paddles.'
+  - img: aut_0030.jpg
+    desc: 'Rob van den Ent, PE9PE, demonstrating the <a href="http://www.patcommradio.com/">Patcomm</a> transceivers and receiver were available at the <a href="http://www.jacom.com/">JACOM</a> booth.'
+  - img: aut_0031.jpg
+    desc: JACOM had a good selection of SGC and MFJ products for sale.
+  - img: mizuho.jpg
+    desc: With JA1AMH, Takada-san of Mizuho, who is standing behind their new small KX-QRP wide-range antenna tuner. (Thanks to JA1CQT for the photo.)
+  - img: aut_0034.jpg
+    desc: 'The AOR SR1030 "Surveillance Receiver" covers from 100 kHz to 3 GHz in a small package scheduled for release in February, 2002.'
+  - img: aut_0037.jpg
+    desc: 'Long time <a href="https://qsl.net/7j1yaa/">Tokyo International Amateur Radio Association</a> (TIARA) member Toshi Yamada, JA1FTC, is selling off just part of his extensive collection of "classic" rigs.'
+  - img: aut_0029.jpg
+    desc: '<b>The Vintage Rig QSO Club</b> is dedicated to keeping classic rigs on the air.'
+  - img: aut_0130.jpg
+    desc: Colins collectoins are popular.
+  - img: aut_0116.jpg
+    desc: 'Tube Receiver Kits at <a href="http://www.pluto.dti.ne.jp/~hamsofic/">Ham''s Office</a>'
+  - img: aut_0139.jpg
+    desc: key/bug/paddle collections are also popular
 
 antennas:
   - img: aut_0003.jpg
@@ -24,7 +48,11 @@ antennas:
   - img: aut_0005.jpg
     desc: "Diamond smaller base-loaded mono band HF whips"
   - img: aut_0019.jpg
-    desc: "Diamond antenna display"
+    desc: "The Diamond <b>BUH</b> is a small plastic bracket that can be tripod mounted and which accepts their <b>DP7R</b> dipole center insulator. (BUH Y3500, DP7R 7~10 MHz Y15,800, additional loading coils about Y4000/pair)"
+  - img: aut_0114.jpg
+    desc: "Radix"
+  - img: aut_0115.jpg
+    desc: "Radix"
 
 icom:
   - img: aut_0007.jpg
@@ -35,18 +63,8 @@ icom:
     desc: "IC-756 PRO II - HF + 6M 100W, IF DSP, Large color LCD, RTTY demodulator/decoder"
   - img: aut_0108.jpg
     desc: "IC-756 PRO II display showing filter shape adjustment"
-
-clubs:
-  - img: aut_0135.jpg
-    desc: '6M AM club with web forum at www.hamland.co.jp/nagaya/c-board.cgi'
-  - img: aut_0136.jpg
-    desc: "6M AM club display"
-  - img: aut_0137.jpg
-    desc: "JAMSAT booth"
-  - img: aut_0138.jpg
-    desc: "Facsimile club display"
-  - img: aut_0105.jpg
-    desc: "RTTY club display"
+  - img: aut_0022.jpg
+    desc: 2.4GHz Downconverter
 
 kenwood:
   - img: aut_0109.jpg
@@ -71,10 +89,42 @@ yaesu:
     desc: "FT-897 rear panel"
   - img: aut_0026.jpg
     desc: "Yaesu display"
+  - img: aut_0101.jpg
+    desc: ""
+  - img: aut_0015.jpg
+    desc: FT-817 owners were encouraged to bring their rigs to the Ham Fair and work the JO1ZYH/1 club station on 50/144/430 SSB.
+  - img: aut_0017.jpg
+    desc: ''
+  - img: aut_0016.jpg
+    desc: ''
+  - img: aut_0012.jpg
+    desc: ''
+  - img: aut_0011.jpg
+    desc: 'Yaesu is labeling 3 portable antennas for the 817 crowd, the MP-1, RHM5, and AN-817.'
+  - img: aut_0131.jpg
+    desc: 'The FT-897 prototype in a "space tent", flanked by FT-817 toting grays.'
+  - img: aut_0133.jpg
+    desc: The FT-817 is everywhere!
+  - img: aut_0103.jpg
+    desc: Featuring the new silver version of the VX-5 HT.
+  - img: aut_0102.jpg
+    desc: Yaesu booth
   - img: aut_0134.jpg
     desc: "Yaesu equipment showcase"
   - img: aut_0104.jpg
-    desc: "Yaesu product display"
+    desc: "inside the MD-200 microphone"
+
+clubs:
+  - img: aut_0135.jpg
+    desc: '6M AM club with web forum at www.hamland.co.jp/nagaya/c-board.cgi'
+  - img: aut_0136.jpg
+    desc: "6M AM club display"
+  - img: aut_0137.jpg
+    desc: "JAMSAT booth"
+  - img: aut_0138.jpg
+    desc: "Facsimile club display"
+  - img: aut_0105.jpg
+    desc: "RTTY club display"
 
 ja3ckf:
   - img: aut_0040.jpg
@@ -93,12 +143,12 @@ jf1dhm:
     desc: "Detailed view of tape measure antenna construction with 5cm hole spacing"
 
 qrp:
+  - img: aut_0124.jpg
+    desc: 'Firefly-II Self-Powered Transmitter - A "plunger" attached to the key knob drives a tiny generator in the base. Pumping the key to send Morse code generates the power to put it on the air!'
   - img: aut_0126.jpg
     desc: "JA1IXI operating his self-powered transmitter"
-  - img: aut_0124.jpg
-    desc: "Firefly-II Self-Powered Transmitter - generates power by pumping the Morse code key"
   - img: aut_0127.jpg
-    desc: "QRP equipment display"
+    desc: "JA1IXI operating the Firefly-II"
   - img: aut_0123.jpg
     desc: "JR7HAN working JA1IXI using low SWR short whip"
   - img: aut_0125.jpg
@@ -107,7 +157,10 @@ qrp:
     desc: "JL1KRA's Pixie-2 and direct conversion TA-7358 rigs"
   - img: aut_0129.jpg
     desc: "Germanium transistor milliwatt transceiver"
-
+  - img: aut_0110.jpg
+    desc: "Homebrew contest: JJ1INO 7-10MHz CW Rig"
+  - img: aut_0111.jpg
+    desc: "Homebrew contest: JK1XKP (top) & JR8DAG 6 Meter AM Transceivers"
 uwave:
   - img: aut_0112.jpg
     desc: "Yokohama Amateur Microwave Association display"

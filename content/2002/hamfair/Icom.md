@@ -1,10 +1,11 @@
 ---
-title: Japan Ham Fair 2002 - Page 3
+title: Japan Ham Fair 2002
 dates: August 24 & 25, 2002
 author: Jim Tittsler 7J1AJH/AI8A
 location: Tokyo Big Sight
+aliases: ["icom.html"]
 ---
 
-{{< gallery src="description.yaml" section="page3" >}}
+{{< gallery src="description.yaml" section="Icom" >}}
 
 {{< pagesnav >}}

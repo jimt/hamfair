@@ -4,6 +4,7 @@ title = 'Japan Ham Fair'
 theme = 'fairpages'
 disableKinds = ["taxonomy", "RSS"]
 ignoreLogs = ['warning-goldmark-raw-html']
+timeout = '120s'
 
 [params]
   description = "Photos and information from the Japan Ham Fair in Tokyo"

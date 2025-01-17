@@ -72,7 +72,7 @@ def find_unreferenced_images(start_dir):
 
 def main():
     # Start from the current directory
-    start_dir = os.getcwd()
+    start_dir = os.path.join(os.getcwd(), 'content')
     print(f"Searching for unreferenced images starting from: {start_dir}")
     find_unreferenced_images(start_dir)
 
